@@ -5,4 +5,4 @@ This project analyzes raw sales data to find key insights, customer buying trend
 * Python (Jupyter Notebook)
 * Pandas
 * Matplotlib / Seaborn
-*
+
